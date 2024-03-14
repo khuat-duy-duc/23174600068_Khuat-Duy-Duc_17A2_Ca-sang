@@ -1,0 +1,62 @@
+Bài 1..........................................................
+i carry your heart with me (i carry it in
+my heart) i am never without it (anywhere
+i go you go, my dear; and whatever is done
+by only me is your doing, my darling)
+i fear no fate (for you are my fate, my sweet)
+i want no world (for beautiful you are my world, my true)
+and it's you are whatever a moon has always meant
+and whatever a sun will always sing is you
+
+here is the deepest secret nobody knows
+(here is the root of the root and the bud of the bud
+and the sky of the sky of a tree called life; which grows
+higher than soul can hope or mind can hide)
+and this is the wonder that's keeping the stars apart
+
+i carry your heart (i carry it in my heart)
+---i carry your heart with me by e.e. cummings---
+Bài 2............................................................
+Nhập số lượng sách : 19
+Nhập mã sách : 23174600068
+Nhập tên sách : Học cách làm giàu
+Nhập tên tác giả : Khuất Duy Đức
+Nhập năm xuất bản : 2025
+Thư viện ĐHKTKTCN có 19 sách Học cách làm giàu với mã số 23174600068.
+Cuốn sách của tác giác Khuất Duy Đức được xuất bản vào năm 2025
+Bài 3.....................................................................
+số tiền sẽ có sau 5 năm là 13382.26
+số tiền sẽ có sau 10 năm là 17908.48
+tỉ lệ tăng trưởng sau 10 năm so với 5 năm là 33.82 %
+Bài 4.....................................................................
+Nhập độ dài cạnh đáy và chiều cao của chóp tứ giác : 2 4
+Diện tích xung quan là 16.00. Diện tích toàn phần là 20.00.Thể tích là 5.33
+Bài 5......................................................................
+thời gian sử dụng máy lọc : 3
+Số tiền điện phải trả sau 3.0 giờ là 4950.0 đồng
+Bài 6......................................................................
+Nhập tọa độ vector A : 1 2
+Nhập tọa độ vector B : 2 4
+vector (A+B) = (3, 6)
+vector (A-B) = (-1, -2)
+Độ dài vector A là : 2.23606797749979
+Độ dài vector B là : 4.47213595499958
+Góc xen giữa A và B là : 1.00
+Bài 7...........................................................
+nhập lần lượt hệ số của phương trình dạng a1,b1,c1: 1 2 3 
+nhập lần lượt hệ số của phương trình dạng a2,b2,c2: 2 3 4
+vậy nghiệm của hệ phương trình trên là: x=-1.0,y=2.0
+Bài 8 ...........................................................
+Nhập số vào : 1 1
+giá trị của biểu thức là 2.63
+Bài 9............................................................
+Nhập tọa độ đỉnh M : 2 1
+Nhập tọa độ đỉnh N : 2 3
+Nhập tọa độ đỉnh P : 4 1
+Nhập tọa độ đỉnh Q : 3 4
+trung điểm của MN= (2.0, 2.0),NP= (3.0, 2.0),PQ= (3.5, 2.5),QM= (2.5, 2.5)
+Bài 10...........................................................
+nhập số bi muốn rút ra : 3
+xác suất rút đc tất cả bi đều là màu đỏ là : 0.05816326530612246
+xác suất để rút đc ít nhất một bi màu xanh là: 0.6660714285714284
+xác suất rút đc đúng 2 bi vàng là: 0.09
