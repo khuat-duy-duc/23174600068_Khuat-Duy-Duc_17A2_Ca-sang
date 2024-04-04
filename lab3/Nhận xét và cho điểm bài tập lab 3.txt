@@ -1,0 +1,28 @@
+- Bài 1: 
+a) đúng
+b) đúng
+c) đúng
+d) đúng
+Điểm bài tập: 2.0
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng
+c) trống
+d) đúng
+e) đúng
+Các bài tập phần liệt kê các số đều kết thúc bằng dấu phẩy, làm thế nào để không có dấu phẩy cuối câu?
+Điểm bài tập: 4.0
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 9.0
+
