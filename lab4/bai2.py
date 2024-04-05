@@ -1,4 +1,5 @@
 #a
+'''
 a=2
 while a<100:
     check=True
@@ -19,4 +20,10 @@ while a<100:
     if b**2==a:
         print(a,end=" ")
     a+=1
-#c em không biết làm
+'''
+#c
+a=0
+b=1
+while a<1000:
+    print(a,end=" ")
+    a,b=b,a+b
