@@ -1,5 +1,4 @@
 #a
-'''
 a=2
 while a<100:
     check=True
@@ -20,7 +19,6 @@ while a<100:
     if b**2==a:
         print(a,end=" ")
     a+=1
-'''
 #c
 a=0
 b=1
