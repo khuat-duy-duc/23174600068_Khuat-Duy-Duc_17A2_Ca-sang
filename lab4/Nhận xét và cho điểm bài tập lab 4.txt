@@ -1,0 +1,28 @@
+- Bài 1: 
+a) b) vậy số nào là chẵn số nào là lẻ thế em?
+c) đúng 
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) đúng
+Điểm bài tập: 3.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: giống đoạn code của bạn Lê Văn Đức
+a) đúng
+b) đúng
+c) đúng
+d) đúng
+Điểm bài tập: 2.0 : 2 = 1.0
+
+- Bài 5: thiếu phép tính lũy thừa và căn bậc 2
+Điểm bài tập: 0.75
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+Tổng điểm bài tập lab 4: 8.25
